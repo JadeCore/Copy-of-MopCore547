@@ -1,3 +1,6 @@
+NOTE: This a copy of the repo from github.com/MOPSource/MopCore547 that will have my own changes to it. Right now, its a complete copy(apart
+from this file) but thats gonna change soon.
+
 ![mistsofpandarialogo](https://cloud.githubusercontent.com/assets/812439/18619016/c10a0e20-7dfa-11e6-92c3-0f0dc1f1be75.png)
 
 
